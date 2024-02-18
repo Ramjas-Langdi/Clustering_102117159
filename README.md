@@ -1,4 +1,4 @@
-#### Clustering Analysis
+# Clustering Analysis
 
 ## Comparitive performance study of different clustering algorithms using different pre-processing techniques with different numbers of clusters on different evaluation parameters
 ### Submitted by- Ramjas Langdi 3CS6 102117159   
